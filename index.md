@@ -25,7 +25,7 @@ As an undergrad in the Mayfield Laboratory, I worked on the production of anti-c
 
 ## Publications
 
-Tran M, Henry RE, Siefker D, Van C, **Newkirk G**, Kim J, Bui J, Mayfield SP (2013). Production of anti-cancer immunotoxins in algae: ribosome inactivating proteins as fusion partners. Journal of Biotechnology and Bioengineering. Volume 110, Issue 11: 2826-2835.
+Tran M, Henry RE, Siefker D, Van C, **Newkirk G**, Kim J, Bui J, Mayfield SP (2013). Production of anti-cancer immunotoxins in algae: ribosome inactivating proteins as fusion partners. Journal of Biotechnology and Bioengineering. Volume 110, Issue 11: 2826-2835. DOI:10.1002/bit.24966
 
 ## Contact
 
