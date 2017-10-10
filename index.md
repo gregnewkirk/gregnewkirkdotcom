@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Gregory Michael Newkirk
 
-You can use the [editor on GitHub](https://github.com/gregnewkirk/gregnewkirkdotcom/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Father, husband, and scientist. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About
 
-### Markdown
+I am currently a graduate student in the Microbiology department at the University of California, Riverside; working in the Giraldo Lab, my projects focus on augmenting microbial abilities with nanoparticles. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My dream is to create synthetic microbiology communication networks with nanotechnology that mimic the networks we see in nature: ants and their pheremone networks, plants and their micronutrient networks, microbes and their populations, and host/pathogen exploitation frameworks.
 
-```markdown
-Syntax highlighted code block
+## Experience
 
-# Header 1
-## Header 2
-### Header 3
+### _Graduate Student, Microbiology Department_ at University of California, Riverside in the Giraldo Lab (2017-current)
 
-- Bulleted
-- List
+- Graduate Student Association Representative for Microbiology
+- Member, UC Student-Workers Union
 
-1. Numbered
-2. List
+### _Senior Research Associate_ at Cibus, San Diego CA (2012-2017)
+At Cibus I worked on automated liquid handling, research and development of microbial gene editing tools, and Illumina next-generation sequencing. 
 
-**Bold** and _Italic_ and `Code` text
+### _B.S. Biology_ at University of California, San Diego (2012)
+**Mayfield Laboratory**
 
-[Link](url) and ![Image](src)
-```
+As an undergrad in the Mayfield Laboratory, I worked on the production of anti-cancer proteins in the chloroplast of _Chlamydomonas reinhardtii_. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gregnewkirk/gregnewkirkdotcom/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For collaborations or inquires into my work, please email me: contact@gregnewkirk.com
