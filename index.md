@@ -7,17 +7,17 @@ My dream is to create synthetic microbiology communication networks with nanotec
 
 # Experience
 ### University of California, Riverside in the Giraldo Lab (2017-current)  
-#### _Graduate Student_, Microbiology Department  
+#### _Graduate Student_, Microbiology Department
 - Graduate Student Association Representative for Microbiology  
-- Member, UC Student-Workers Union  
+- Member, UC Student-Workers Union
 
 ### Cibus, San Diego CA (2012-2017)  
-#### _Senior Research Associate_  
-  At Cibus I worked on automated liquid handling, research and development of microbial gene editing tools, and Illumina next-generation sequencing.   
+#### _Senior Research Associate_
+  At Cibus I worked on automated liquid handling, research and development of microbial gene editing tools, and Illumina next-generation sequencing.
 
 ### _B.S. Biology_ at the University of California, San Diego (2012)  
-#### _Research Assistant_, Mayfield Laboratory  
-  As an undergrad in the Mayfield Laboratory, I worked on the production of anti-cancer proteins in the chloroplast of _Chlamydomonas reinhardtii_.  
+#### _Research Assistant_, Mayfield Laboratory
+  As an undergrad in the Mayfield Laboratory, I worked on the production of anti-cancer proteins in the chloroplast of _Chlamydomonas reinhardtii_.
 
 ---
 
