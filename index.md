@@ -10,7 +10,7 @@ My dream is to create synthetic microbiology communication networks with nanotec
 
 ## Experience
 
-###  at the University of California, Riverside in the Giraldo Lab (2017-current)
+### University of California, Riverside in the Giraldo Lab (2017-current)
 **_Graduate Student_, Microbiology Department**
 - Graduate Student Association Representative for Microbiology
 - Member, UC Student-Workers Union
