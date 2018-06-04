@@ -6,12 +6,13 @@ My dream is to create synthetic microbiology communication networks with nanotec
 ---
 
 # Contact
-*For collaborations or inquires into my work, please email me: contact at gregnewkirk.com*
+*For collaborations or inquires into my work, please email me: contact@gregnewkirk.com*
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-1154-7787" href="https://orcid.org/0000-0002-1154-7787" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-1154-7787</a></div>
 
+Up-to-date background information, education and technical experience can be found at my ORCID
 
-Twitter: [@gnewkirk](https://twitter.com/gnewkirk)
+Twitter: [@gnewkirk](https://twitter.com/gnewkirk) | LinkedIn: [gregorynewkirk](https://www.linkedin.com/in/gregorynewkirk/)
 
 ---
 
