@@ -1,7 +1,7 @@
 # About
-I am currently a graduate student in the Microbiology department at the University of California, Riverside; working in the Giraldo Lab, my projects focus on augmenting microbial abilities with nanoparticles. 
+I am currently a graduate student (Ph.D) in the [Microbiology Department](http://microbiology.ucr.edu/) at the University of California, Riverside; working in the [Giraldo Lab](https://giraldolab.com/), my projects focus on augmenting microbial abilities through nanotechnology. 
 
-My dream is to create synthetic microbiology communication networks with nanotechnology that mimic the networks we see in nature: ants and their pheremone networks, plants and their micronutrient networks, microbes and their populations, and host/pathogen exploitation frameworks.
+My dream is to create synthetic microbiology communication networks that mimic the networks we see in nature: ants and their pheremone networks, plants and their micronutrient networks, microbes and their populations, and host/pathogen exploitation frameworks.
 
 ---
 
