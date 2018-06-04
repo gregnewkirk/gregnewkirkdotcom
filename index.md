@@ -20,7 +20,7 @@ Twitter: [@gnewkirk](https://twitter.com/gnewkirk) | LinkedIn: [gregorynewkirk](
 
 For more information about how the Giraldo lab interfaces nanotechnology with plant biology, please visit: [giraldolab.com](https://giraldolab.com/)
 
-Twitter: [@plantnanotech](https://twitter.com/plantnanotech)
+Twitter: [@plantnanotech](https://twitter.com/plantnanotech) |
 
 ---
 
