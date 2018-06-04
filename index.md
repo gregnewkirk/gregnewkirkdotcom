@@ -5,9 +5,20 @@ My dream is to create synthetic microbiology communication networks with nanotec
 
 ---
 
-# Experience
+# Contact
+For collaborations or inquires into my work, please email me: contact@gregnewkirk.com
 
-Up-to-date information can be found on my ORCID
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-1154-7787" href="https://orcid.org/0000-0002-1154-7787" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-1154-7787</a></div>
+
+Twitter: [@gnewkirk](https://twitter.com/gnewkirk)
+
+---
+
+# Giraldo Lab
+
+For more information about how the Giraldo lab interfaces nanotechnology with plant biology, please visit: giraldolab.com
+
+Twitter: [@plantnanotech](https://twitter.com/plantnanotech)
 
 ---
 
@@ -15,10 +26,3 @@ Up-to-date information can be found on my ORCID
 Tran M, Henry RE, Siefker D, Van C, **Newkirk G**, Kim J, Bui J, Mayfield SP (2013). Production of anti-cancer immunotoxins in algae: ribosome inactivating proteins as fusion partners. Journal of Biotechnology and Bioengineering. Volume 110, Issue 11: 2826-2835. [DOI:10.1002/bit.24966](https://paperpile.com/app/p/eabde6a9-2c69-0274-98a4-895e53552434)
 
 ---
-
-# Contact
-For collaborations or inquires into my work, please email me: contact@gregnewkirk.com
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-1154-7787" href="https://orcid.org/0000-0002-1154-7787" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-1154-7787</a></div>
-
-Twitter: [@gnewkirk](https://twitter.com/gnewkirk)
