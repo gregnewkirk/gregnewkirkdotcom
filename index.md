@@ -6,21 +6,8 @@ My dream is to create synthetic microbiology communication networks with nanotec
 ---
 
 # Experience
-### University of California, Riverside in the Giraldo Lab (2017-current)  
-**_Graduate Student_, Microbiology Department**
 
-- Graduate Student Association Representative for Microbiology  
-- Member, UC Student-Workers Union
-
-### Cibus, San Diego CA (2012-2017)  
-**_Senior Research Associate_**
-
-At Cibus I worked on automated liquid handling, research and development of microbial gene editing tools, and Illumina next-generation sequencing.
-
-### _B.S. Biology_ at the University of California, San Diego (2012)  
-**_Research Assistant_, Mayfield Laboratory**
-
-As an undergrad in the Mayfield Laboratory, I worked on the production of anti-cancer proteins in the chloroplast of _Chlamydomonas reinhardtii_.
+Up-to-date information can be found on my ORCID
 
 ---
 
@@ -31,6 +18,7 @@ Tran M, Henry RE, Siefker D, Van C, **Newkirk G**, Kim J, Bui J, Mayfield SP (20
 
 # Contact
 For collaborations or inquires into my work, please email me: contact@gregnewkirk.com
-ORCID: <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-1154-7787" href="https://orcid.org/0000-0002-1154-7787" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-1154-7787</a></div>
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-1154-7787" href="https://orcid.org/0000-0002-1154-7787" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-1154-7787</a></div>
 
 Twitter: [@gnewkirk](https://twitter.com/gnewkirk)
