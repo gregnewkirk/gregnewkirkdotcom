@@ -10,9 +10,7 @@ Twitter: [@gnewkirk](https://twitter.com/gnewkirk) | LinkedIn: [gregorynewkirk](
 ---
 
 # About
-I am currently a graduate student (Ph.D) in the [Microbiology Department](http://microbiology.ucr.edu/) at the University of California, Riverside; working in the [Giraldo Lab](http://giraldolab.com/), my projects focus on augmenting microbial abilities through nanotechnology. 
-
-My dream is to create synthetic microbiology communication networks that mimic the networks we see in nature: ants and their pheremone networks, plants and their micronutrient networks, microbes and their populations, and host/pathogen exploitation frameworks.
+I am currently a graduate student (Ph.D) in the [Microbiology Department](http://microbiology.ucr.edu/) at the University of California, Riverside; working in the [Giraldo Lab](http://giraldolab.com/), my projects focus on augmenting microorganisms through nanotechnology. 
 
 ---
 
@@ -25,4 +23,4 @@ Twitter: [@plantnanotech](https://twitter.com/plantnanotech) |
 ---
 
 # Publications
-Tran M, Henry RE, Siefker D, Van C, **Newkirk G**, Kim J, Bui J, Mayfield SP (2013). Production of anti-cancer immunotoxins in algae: ribosome inactivating proteins as fusion partners. *Journal of Biotechnology and Bioengineering*. Volume 110, Issue 11: 2826-2835. [DOI:10.1002/bit.24966](https://paperpile.com/app/p/eabde6a9-2c69-0274-98a4-895e53552434)
+[All of my publications are available here](https://paperpile.com/shared/DOodWq)
