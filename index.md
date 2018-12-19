@@ -32,8 +32,8 @@ For peer-to-peer sharing, the [PDFs of my publications are here](https://paperpi
 ---
 
 # Newkirk Lab
-This is my space for personal projects surrounding application of scientific principles to solve problems within a local community.
+This is my space for personal projects surrounding application of open science principles - transparency in communication, open access to methods, educational resources & data and open public review - to solve problems within a local community.
 
-[newkirklab.com](http://newkirklab.com) - A student-made resource, database, and collaborative task management platform for all graduate students at UC Riverside
+[newkirklab.com](http://newkirklab.com) - A student-made resource, database, collaborative task management platform and communication hub for all graduate students at UC Riverside.
 
 [smartriverside.newkirklab.com](http://smartriverside.newkirklab.com) - Open access to resources, shared tasks and communication platforms for the technology community of Riverside, organized through [SmartRiverside](http://smartriverside.com).
