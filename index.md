@@ -6,7 +6,7 @@ Twitter: [@gnewkirk](https://twitter.com/gnewkirk) | LinkedIn: [gregorynewkirk](
 ---
 
 # About
-[My current CV is available here](https://docs.google.com/document/d/1GMQIeWOHNwR5acxJ16g87z2KY46fDu-M4VFr1dSr23k/edit?usp=sharing)
+[My current CV is available here](https://docs.google.com/document/d/e/2PACX-1vTNX2f0nrqiF-dIHqJJ78vhEvEMmCT7ziTSenLX0rSuG9yoigBGGYKQMbw7jzz9eeURSlxrtLNDVa6V/pub)
 
 ## Academia
 I am currently a graduate student (Ph.D) in the [Microbiology Department](http://microbiology.ucr.edu/) at the University of California, Riverside. Within the [Giraldo Lab](http://giraldolab.com/), my projects focus on researching microorganisms and plants using nanotechnology. 
